@@ -84,7 +84,7 @@ I'm building this in public.
 Every week I post real data — followers, stars, downloads, revenue (or no revenue), what's working, what's broken.
 
 - ⭐ Star this repo if this matters to you
-- 🐛 [Open an issue](https://github.com/QY-LADK7888/ai-self-portrait/issues) if something breaks or feels off
+- 🐛 [Open an issue](https://github.com/FelixBaize/ai-self-portrait/issues) if something breaks or feels off
 - 💬 Ideas for Phase 2 or 3 → issues / discussions welcome
 - 🔧 PRs welcome — if you ship something better, great
 

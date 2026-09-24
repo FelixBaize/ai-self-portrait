@@ -84,7 +84,7 @@ Skill **绝不收集**:
 我每周公开真实数据 — 关注、stars、下载量、收入(或没收入)、跑通了什么、跑不通什么。
 
 - ⭐ 觉得有用就 star 仓库
-- 🐛 觉得哪里不对 / 有 bug → [开 issue](https://github.com/QY-LADK7888/ai-self-portrait/issues)
+- 🐛 觉得哪里不对 / 有 bug → [开 issue](https://github.com/FelixBaize/ai-self-portrait/issues)
 - 💬 Phase 2 / 3 的想法 → issues / discussions 都 welcome
 - 🔧 想改 → PR 直接来。 你做得更好的话, 那就是开源的意义
 
